@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm">Confirmación</string>
+    <string name="confirm_message">"Estas seguro de querer eliminar "</string>
+    <string name="erase">BORRAR</string>
+</resources>
